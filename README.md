@@ -15,6 +15,9 @@
     ·
     <a href="#developing-ghostty">Developing</a>
   </p>
+  <p align="center">
+    [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ghostty-org/ghostty/badge)](https://scorecard.dev/viewer/?uri=github.com/ghostty-org/ghostty)
+  </p>
 </p>
 
 ## About
